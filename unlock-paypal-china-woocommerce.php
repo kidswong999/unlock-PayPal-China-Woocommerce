@@ -1,4 +1,4 @@
-< ?php
+<?php
 /*
 Plugin Name: unlock-PayPal-China-Woocommerce
 Description: 解锁人民币时PayPal不可用
